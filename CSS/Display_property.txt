@@ -25,3 +25,22 @@ h1 {
     display: inline-block;
 
 }
+
+================================================================[[ Height and Width % unit ]]=======================================================
+
+   <section>
+        <div>
+        </div>
+    </section>
+    
+    eikhane amra  jodi  div er jonno  height and width %  hisab e nei  eita or ancestor tag theke nibe....
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
