@@ -1,0 +1,7 @@
+# display property: Inline,block,inline block
+
+
+#inline property doesn't allow padding,margin,height,width but block allows everything
+
+
+# Block and Inline-block do samething but block works vertically and Inline block works horizontaly 
