@@ -5,3 +5,23 @@
 
 
 # Block and Inline-block do samething but block works vertically and Inline block works horizontaly 
+
+
+ex:
+span {
+    background-color: aquamarine;
+    border: 2px solid black;
+    height: 200px;
+}
+
+h1 {
+    background-color: gold;
+    border: 2px solid black;
+    height: 100px;
+    font-weight: 20px;
+    width: 300px;
+    padding: 10px;
+    margin: 100px;
+    display: inline-block;
+
+}
