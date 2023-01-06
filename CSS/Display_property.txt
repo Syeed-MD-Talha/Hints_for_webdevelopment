@@ -33,7 +33,7 @@ h1 {
         </div>
     </section>
     
-    eikhane amra  jodi  div er jonno  height and width %  hisab e nei  eita or ancestor tag theke nibe....
+    eikhane amra  jodi  div er jonno  height and width %  hisab e nei  eita or parent tag theke nibe....
     
     
     
