@@ -1,0 +1,8 @@
+If i use two span tag or img tag the i have to add then one by one and have to ensure that
+"their should'nt have any space between them"
+
+ex: 
+ <span>talha</span><span>good boy</span>............. OK
+ <span>talha</span> <span>good boy</span>   -------------------Wrong
+ 
+ same thing in  image tag also
